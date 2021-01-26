@@ -12,7 +12,7 @@
   - Use when you improve/enhance piece of code like refactoring etc.
   - e.g., 👌 IMPROVE: Remote IP API Function
 
-- 🏖 STYLE: IMPERATIVE_MESSAGE
+- 🏖  STYLE: IMPERATIVE_MESSAGE
 
   - Use when you update the UI style.
   - e.g., 👌 STYLE: Remote IP API Function
